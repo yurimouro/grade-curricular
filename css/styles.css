@@ -1,0 +1,73 @@
+img{
+    display: block;
+    margin: 10px auto 30px auto;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 900px;
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    font-size: 22px;
+}
+
+/*Cabeçalho superior*/
+
+.carga{
+    background-color: #91BF4B;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Cabeçalho abaixo do superior*/
+
+.semestre{
+    background-color: #05C7F2;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*primeira coluna*/
+
+.disciplina{
+    background-color: #E6E6E6;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    
+
+}
+
+.final{
+    background-color: #FFC000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+}
+
+.titulo{
+    background-color: #F2E205;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/*Vocês devem identificar a classe e preencher abaixo*/
+
+/*Linha final*/
